@@ -1,9 +1,7 @@
 table{
-    text-align: center;
     font-family: Arial;
     font-size: 12px;
 }
-
 th{
     background-color: #0D5188;
     color: white;
@@ -16,5 +14,12 @@ th{
     background-color: #C7E7F3;
 }
 .tr3{
-    background-color: rgb(197, 198, 199);
+    background-color: silver;
+    text-align: center
+}
+.cidades{
+    color: #0D5188
+}
+.center{
+    text-align: center;
 }
